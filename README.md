@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img src="ttps://spotify-recently-played-readme.vercel.app/api?user=214gxyididy7y7mxrfcqdtxta" alt="Widget with the current Spotify song"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=214gxyididy7y7mxrfcqdtxta" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
