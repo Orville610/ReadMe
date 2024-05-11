@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Orville610/Orville610/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Orville610/ReadMe/output/snake.svg" alt="Snake animation" />
 
 ###
