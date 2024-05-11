@@ -26,7 +26,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Orville610/ReadMe/output/9aaf222eb95daf713c85604407af0462.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/Orville610/Orville610/output/9aaf222eb95daf713c85604407af0462.gif"  />
 
 ###
 
@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Orville610/ReadMe/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Orville610/Orville610/output/snake.svg" alt="Snake animation" />
 
 ###
