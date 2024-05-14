@@ -45,7 +45,9 @@
 ###
 
 <div align="left">
-  [![Spotify](https://readme-dev-nu.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Hum4n.)
+  <a href="https://open.spotify.com/user/Hum4n." target="_blank">
+    <img src="https://readme-dev-nu.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 ###
