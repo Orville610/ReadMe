@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <a href="https://open.spotify.com/user/214gxyididy7y7mxrfcqdtxta" target="_blank">
+  <a href="neonddroid.my.id/spotify" target="_blank">
     <img src="https://readme-dev-nu.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
   </a>
 </div>
